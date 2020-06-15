@@ -1,1 +1,4 @@
 ﻿*.meta
+/Library
+/obj
+/Packages
